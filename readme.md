@@ -45,7 +45,7 @@ The system:
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/molikpunj/JIMS-SIH-2025.git
+git clone https://github.com/molikpunj/EvoSync-Dropout-Predictor.git
 cd JIMS-SIH-2025
 ```
 

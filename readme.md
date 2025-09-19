@@ -1,7 +1,7 @@
 # 🎓 AI-Based Student Dropout Prediction & Counselling System  
 
 ## 📌 Overview  
-This project is a prototype for the **Smart India Hackathon 2025** problem statement:  
+This project is a prototype for the **JIMS Smart India Hackathon 2025** problem statement:  
 **AI-Based Dropout Prediction and Counselling System**.  
 
 The system:  
@@ -22,7 +22,7 @@ The system:
 ---
 
 ## 🛠️ Tech Stack  
-- **Python 3.9+**  
+- **Python 3.13+**  
 - **scikit-learn** → ML model (Logistic Regression)  
 - **pandas** → data preprocessing  
 - **Streamlit** → interactive dashboard  
@@ -35,7 +35,7 @@ The system:
 ├── dropout_model.py       # Script to train and save the ML model
 ├── app.py                 # Streamlit web app
 ├── dropout_model.pkl      # Saved ML model (generated after training)
-├── sample_students.csv    # Example CSV file for testing
+├── sample_students_1.csv    # Example CSV file for testing
 └── README.md              # Project documentation
 ```
 
@@ -45,8 +45,8 @@ The system:
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/dropout-prediction-system.git
-cd dropout-prediction-system
+git clone https://github.com/molikpunj/JIMS-SIH-2025.git
+cd JIMS-SIH-2025
 ```
 
 ### 2️⃣ Create a virtual environment (optional but recommended)  
@@ -96,6 +96,6 @@ Rohit Verma,ENR004,9876789123,B.Com,4,8.3,92,0,1
 
 ---
 
-## 🤝 Team EvoSync – Smart India Hackathon 2025  
+## 🤝 Team EvoSync – JIMS Smart India Hackathon 2025  
 Developed as part of **Problem Statement ID – 25102**  
-Theme: *Smart Automation*  
+Theme: Smart Automation 

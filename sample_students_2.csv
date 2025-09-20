@@ -1,0 +1,7 @@
+Name,Enrollment,Phone,Course,years_in_degree,cgpa,attendance,fee_defaults,leave_apps,dropout
+Arjun Kumar,ENR001,9876543210,BCA,1,8.2,90,0,1,0
+Benny Smith,ENR002,9876501234,BBA,2,5.5,50,1,5,1
+Priya Sharma,ENR003,9876123456,B.Tech,3,9.0,88,0,0,0
+Rohit Verma,ENR004,9876789123,B.Com,4,4.8,35,1,6,1
+Ananya Gupta,ENR005,9876000005,BCA,2,7.0,70,0,2,0
+Karan Mehta,ENR006,9876000006,BBA,3,5.2,45,1,7,1
